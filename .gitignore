@@ -1,0 +1,7 @@
+# Git ignore file for CCS Mobile Web Prototype
+
+.DS_Store
+codekit-config.json
+less/*
+pages/*
+partials/*
